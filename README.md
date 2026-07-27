@@ -1,5 +1,5 @@
 # Computational-Fluid-Dynamics
-An Eulerian interactive CFD-Solver
+An interactive Eulerian CFD-Solver
 
 To compile use:
 gcc cfd.c -o cfd -lm `sdl2-config --cflags --libs` && ./cfd 
